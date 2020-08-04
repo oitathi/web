@@ -1,0 +1,10 @@
+{
+    "endpoint": {
+        "b2w-login": "http://b2w.b2w-login.atlas.b2w",
+        "b2w-login-api": "http://b2w-login-api-v1.b2w.atlas.b2w/b2w-login",
+        "rest-nfe": "http://fazemu-nfe-v1.b2w.glete.atlas.b2w/rest",
+        "rest-nfse": "http://fazemu-nfse-v1.b2w.glete.atlas.b2w/rest",
+        "fazemu-nfe": "http://fazemu-nfe-v1.b2w.glete.atlas.b2w/fazemu-web",
+        "fazemu-nfse": "http://fazemu-nfse-v1.b2w.glete.atlas.b2w/fazemu-web"
+    }
+}

@@ -1,0 +1,16 @@
+
+export const PRODUCTION = 'production'
+export const STAGING = 'staging'
+export const DEVELOPMENT = 'development'
+export const NODE_ENV = process.env.NODE_ENV
+export const COOKIE_USER_ID = 'b2wlogin.user'
+export const COOKIE_USER_TOKEN = 'b2wlogin.token'
+export const COOKIE_USER_NAME = 'b2wlogin.name'
+//export const API_KEY = 'c2FmcmE6MkZtY21FNg=='
+//export const SYSTEM = 'SAFRA'
+//export const API_KEY = 'ZmF6ZW11OmZhemVtdQ=='
+//export const SYSTEM = 'SMF'
+export const API_KEY = 'dW1icmVsbGE6dW1icmVsbGE='
+export const SYSTEM = 'UMBRELLA_FLUXO'
+//export const API_KEY = 'ZmF6ZW11OmZhemVtdQ=='
+//export const SYSTEM = 'FAZEMU'

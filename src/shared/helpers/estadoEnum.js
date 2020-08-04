@@ -1,0 +1,33 @@
+const EstadoEnum = {
+    1: 'SAO PAULO',
+    2: 'MINAS GERAIS',
+    3: 'RIO DE JANEIRO',
+    4: 'PARANA',
+    5: 'BAHIA',
+    6: 'ESPIRITO SANTO',
+    7: 'AMAPA',
+    8: 'PERNAMBUCO',
+    9: 'ALAGOAS',
+    10: 'PARAIBA',
+    11: 'RIO GRANDE DO NORTE',
+    12: 'CEARA',
+    13: 'MARANHAO',
+    14: 'PARA',
+    15: 'AMAZONAS',
+    16: 'GOIAS',
+    17: 'MATO GROSSO',
+    18: 'MATO GROSSO DO SUL',
+    19: 'SANTA CATARINA',
+    20: 'RIO GRANDE DO SUL',
+    21: 'PIAUI',
+    22: 'RORAIMA',
+    23: 'ACRE',
+    24: 'DISTRITO FEDERAL',
+    25: 'RONDONIA',
+    26: 'SERGIPE',
+    27: 'TOCANTINS',
+    28: 'AMBIENTE NACIONAL',
+    '': ''
+};
+
+export default EstadoEnum
